@@ -1,0 +1,4 @@
+# login 
+docker login
+# if 'Stored credentials invalid or expired'
+docker login -u boyinglby
